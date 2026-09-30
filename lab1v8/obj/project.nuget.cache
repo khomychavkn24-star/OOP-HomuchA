@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "gjEi/KFLdI7cEiXxNUfMn9LaOO2h2U1wc9jph0yjUw5Cqdyuh/tc4F/32Pcvs2aBWqDD4iBc1RTSUUSf0zVSGg==",
+  "dgSpecHash": "9lWurV+2BdI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\student\\OOP-Homych\\lab1v8\\lab1v8.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\vadim\\OOP-HomuchA\\lab1v8\\lab1v8.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vadim\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.20\\microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\vadim\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.20\\microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\vadim\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.20\\microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\vadim\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.20\\microsoft.netcore.app.host.win-x64.7.0.20.nupkg.sha512"
+  ],
   "logs": []
 }

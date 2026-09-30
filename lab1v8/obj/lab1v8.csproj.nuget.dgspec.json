@@ -1,35 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\student\\OOP-Homych\\lab1v8\\lab1v8.csproj": {}
+    "C:\\Users\\vadim\\OOP-HomuchA\\lab1v8\\lab1v8.csproj": {}
   },
   "projects": {
-    "C:\\Users\\student\\OOP-Homych\\lab1v8\\lab1v8.csproj": {
+    "C:\\Users\\vadim\\OOP-HomuchA\\lab1v8\\lab1v8.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\student\\OOP-Homych\\lab1v8\\lab1v8.csproj",
+        "projectUniqueName": "C:\\Users\\vadim\\OOP-HomuchA\\lab1v8\\lab1v8.csproj",
         "projectName": "lab1v8",
-        "projectPath": "C:\\Users\\student\\OOP-Homych\\lab1v8\\lab1v8.csproj",
-        "packagesPath": "C:\\Users\\student\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\student\\OOP-Homych\\lab1v8\\obj\\",
+        "projectPath": "C:\\Users\\vadim\\OOP-HomuchA\\lab1v8\\lab1v8.csproj",
+        "packagesPath": "C:\\Users\\vadim\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vadim\\OOP-HomuchA\\lab1v8\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\student\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\vadim\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
+            "framework": "net7.0",
             "targetAlias": "net7.0",
             "projectReferences": {}
           }
@@ -38,10 +33,17 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.400"
       },
       "frameworks": {
         "net7.0": {
+          "framework": "net7.0",
           "targetAlias": "net7.0",
           "imports": [
             "net461",
@@ -54,12 +56,30 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.20, 7.0.20]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[7.0.20, 7.0.20]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.20, 7.0.20]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[7.0.20, 7.0.20]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
